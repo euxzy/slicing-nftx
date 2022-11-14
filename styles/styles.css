@@ -599,3 +599,143 @@ li {
   align-items: center;
   gap: 36px;
 }
+#testimonial .card .card-details h3 {
+  font-family: 'Anybody';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 25px;
+  color: #212834;
+  margin-bottom: 20px;
+}
+#testimonial .card .card-details p {
+  font-family: 'Anybody';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 17px;
+  color: #7f848d;
+  padding-bottom: 21px;
+  border-bottom: 1px solid #d4d6d9;
+  margin-bottom: 24px;
+  width: 189px;
+}
+#testimonial .card .card-details p.description {
+  font-family: 'Anybody';
+  font-style: italic;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 26px;
+  color: #293241;
+  padding-bottom: 0;
+  border: 0;
+  margin-bottom: 18px;
+  width: 100%;
+}
+
+/* Best Flow */
+#best-flow {
+  padding-top: 32px;
+  margin-bottom: 294px;
+}
+#best-flow .container {
+  background: #293241;
+  border-radius: 40px;
+  justify-content: space-between;
+  padding-left: 60px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+#best-flow .container h2 {
+  font-family: 'Anybody';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 63px;
+  color: #fff;
+  margin-bottom: 24px;
+}
+#best-flow .container p {
+  font-family: 'Anybody';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 32px;
+  color: #eaebec;
+  margin-bottom: 32px;
+}
+#best-flow .button {
+  padding: 0 12px;
+  width: 237px;
+}
+#best-flow .button a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 24px;
+  background: #fff;
+  font-family: 'Anybody';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 17px;
+  text-decoration: none;
+  color: #293241;
+  border-radius: 14px;
+}
+#best-flow .flow-img {
+  margin-top: 65px;
+}
+
+/* Footer */
+#footer .container {
+  gap: 172px;
+  padding-top: 70px;
+  border-top: 1px solid #eaebec;
+}
+#footer .left img {
+  margin-bottom: 15px;
+}
+#footer .left p {
+  font-family: 'Anybody';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  color: #7f848d;
+  margin-bottom: 24px;
+}
+#footer .left .copyright {
+  font-family: 'Anybody';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  color: #293241;
+}
+#footer ul {
+  list-style: none;
+}
+#footer ul li {
+  font-family: 'Anybody';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 17px;
+  color: #7f848d;
+  margin-bottom: 16px;
+}
+#footer .right p {
+  font-family: 'Anybody';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 17px;
+  color: #293241;
+  margin-bottom: 18px;
+}
+#footer .right .socials {
+  display: flex;
+  gap: 16px;
+}
